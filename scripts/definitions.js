@@ -43,7 +43,7 @@ const QMAKE_SEND_WEBAPP = 4;
 const QMAKE_SEND_NODEJS = 5;
 const QMAKE_SEND_NODEJS_LOCAL = 6;  
 
-const QUIZ_KEYWORD = "gQgJ9TPAHCRG6W14";
+const QUIZ_KEYWORD = "2wM3yJzVpj1yIBfS";
 
 const USER_LOGIN_ANONYMOUS = "Anonymous";
 const USER_EMAIL_ANONYMOUS = "anonymous@anonymous.nowhere";
@@ -127,7 +127,7 @@ const options =
 	indicateOnlySelAns: false,
 	showUnansweredQuests: true,
 	htmlCharset: "Windows-1252",
-	htmlLanguage: "it",
+	htmlLanguage: "en",
 	reportHideRevision: false,
 	lockQuestionAfterConfirm: false,
 	showEngagementRules: false,
